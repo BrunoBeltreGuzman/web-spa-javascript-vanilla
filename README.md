@@ -52,8 +52,8 @@ function getLocation() {
 
 **Screenshot:**
 
-![Image]()
+![Image](https://github.com/BrunoBeltreGuzman/web-spa-javascript-vanilla/blob/master/screenshot/Captura%20de%20pantalla_2021-03-21_10-35-24.png)
 
-![Image]()
+![Image](https://github.com/BrunoBeltreGuzman/web-spa-javascript-vanilla/blob/master/screenshot/Captura%20de%20pantalla_2021-03-21_10-35-53.png)
 
-![Image]()
+![Image](https://github.com/BrunoBeltreGuzman/web-spa-javascript-vanilla/blob/master/screenshot/Captura%20de%20pantalla_2021-03-21_10-36-11.png)
